@@ -7,6 +7,7 @@ public class LoopingStatements {
 		forLoop();
 		whileLoop();
 		doWhileLoop();
+		enhancedForLoop(new int[] {1,2,3,4,5});
 	}
 
 	public static void forLoop() {
@@ -28,5 +29,10 @@ public class LoopingStatements {
 		do {
 			System.out.println(i);
 		} while (i < 10);
+	}
+	public static void enhancedForLoop(int[] arr) {
+		for(int nums:arr) {
+			System.out.println(nums);
+		}
 	}
 }
