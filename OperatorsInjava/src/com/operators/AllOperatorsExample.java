@@ -3,7 +3,7 @@ package com.operators;
 public class AllOperatorsExample {
 
 	public static void main(String[] args) {
-		// Arithmetic Operators
+		// Arithmetic Operators in java
 		int a = 10;
 		int b = 5;
 		System.out.println("Arithmetic Operators:");
