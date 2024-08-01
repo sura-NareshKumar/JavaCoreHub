@@ -1,10 +1,10 @@
 # Java Programming: From Basics to Advanced
 
-Welcome to the **Java Programming: From Basics to Advanced** repository! This repository contains a comprehensive collection of Java code examples, tutorials, and projects, ranging from fundamental concepts to advanced topics.
+Welcome to the **Java Programming: From Basics to Advanced** repository! This repository contains a comprehensive collection of Java code examples from fundamental concepts to advanced topics.
 
 ## Topics Covered
 
-This repository covers a wide range of Java topics, including but not limited to:
+This repository covers a wide range of Java topics, including :
 
 - **Data Types**
 - **Control Structures**
